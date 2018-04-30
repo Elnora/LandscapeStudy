@@ -468,10 +468,10 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     Build: 0
-    Collab: 1
+    Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 1
+    UNet: 0
   cloudProjectId: 6b77a1bc-a316-4490-9229-44fbbf1fd57c
   projectName: LandscapeStudies
   organizationId: elnora
